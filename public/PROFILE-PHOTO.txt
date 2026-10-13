@@ -1,0 +1,1 @@
+Add your portrait photo to this folder and name it profile.jpg. The site loads /profile.jpg automatically. If absent, an initials placeholder appears.
